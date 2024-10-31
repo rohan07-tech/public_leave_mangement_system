@@ -1,0 +1,11 @@
+Admin:
+Username: admin
+Password:123456
+
+Manager:
+Username: rohan
+Password:rahul1234
+
+Staff:
+Username: somnath
+Password: somnath1234
